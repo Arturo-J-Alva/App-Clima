@@ -12,7 +12,7 @@ const Home = (props) => {
 
                         <h1>APP-CLIMA</h1>
 
-                        <p className='h4'>Aplicación web para estar al obtener información actual del tiempo de una ciudad o cualquier lugar del planeta.</p>
+                        <p className='h4'>Aplicación web para obtener información actual del tiempo de una ciudad o cualquier lugar del planeta.</p>
 
                         <div className="row mt-5">
                             <div className="col-md-6  d-flex justify-content-center align-items-center">

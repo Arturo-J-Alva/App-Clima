@@ -26,7 +26,7 @@ const Coords = () => {
             <div className="container mt-4">
                 <div className="row">
                     <div className="col-md-3"></div>
-                    <div className="col-md-6"><h4 className='text-center text-light'>Eliga un lugar arrastrando el cursor</h4></div>
+                    <div className="col-md-6"><h4 className='text-center text-light'>Eliga un lugar arrastrando el marcador</h4></div>
                     <div className="col-md-3"></div>
                 </div>
                 <div className="row">

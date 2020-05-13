@@ -1,0 +1,20 @@
+.margen1 {
+    margin-left: 30%;
+}
+
+.margen2 {
+    margin-left: 30%;
+}
+
+@media (max-width: 600px) {
+    .margen1 {
+        margin-left: 40%;
+    }
+    nav form .FormControl{
+        width: 50%;
+        margin-right: 5px;
+    }
+    .margen2 {
+        margin-left: 40%;
+    }
+}

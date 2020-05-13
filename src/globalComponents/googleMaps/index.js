@@ -60,7 +60,7 @@ export default function App(props) {
     return (
         <div>
             <MyMapComponent
-                googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=+${process.env.REACT_APP_KEY_GOOGLE}`}
+                googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyDvKIJMhFDLIx8x1ZWaRCytbuhk-yVWxzM`}
                 loadingElement={<div style={{ height: "100%" }} />}
                 containerElement={<div style={{ height: "550px" }} />}
                 mapElement={<div style={{ height: "100%" }} />}

@@ -37,7 +37,7 @@ const Home = (props) => {
                             </div>
                         </div>
 
-                        <h4 className='mt-5'>AppWeb hecha con React y bootstrap4 por Arturo J. Alva. </h4>
+                        <h4 className='mt-5'>Aplicación web hecha con React y Bootstrap4 por Arturo J. Alva </h4>
 
                     </div>
                     <div className="col-md-2"></div>
